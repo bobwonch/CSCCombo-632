@@ -1,10 +1,25 @@
 
+/*****************************************************************************
+ *  This is a hello word program it writes Hello World! to the console!      *
+ *  Written by: Bob Wonch                                                    * 
+ *  Date: 9/1/2023                                                           *
+ ****************************************************************************/
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello World");
-		System.out.println("Thanks for stopping by!");
+		//Hello world one line comment
+		System.out.println("Hello World!");
+		
+		System.out.println();
+		
+		int num1 = 66;
+		
+		int num2 = 12;
+		
+		int feet = num1 / num2;
+		int inches = num1 % num2;
+		
+		System.out.println("The item is " + feet + "ft and " + inches + "in");
 	}
 
 }
