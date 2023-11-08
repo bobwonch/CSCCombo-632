@@ -1,6 +1,6 @@
 
 /*****************************************************************************
- *  This is a hello word program it writes Hello World! to the console!      *
+ *  This is a hello world program it writes Hello World! to the console!      *
  *  Written by: Bob Wonch                                                    * 
  *  Date: 9/1/2023                                                           *
  ****************************************************************************/
